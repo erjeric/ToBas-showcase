@@ -48,11 +48,19 @@ Setiap kali transaksi penjualan terjadi, stok otomatis berkurang dari batch tert
 
 ## 📸 Tampilan Aplikasi
 
-| Dashboard | Transaksi Penjualan | Laporan Excel |
-|:----------:|:-------------------:|:--------------:|
-| ![Dashboard](docs/screenshots/dashboard.png) | ![Penjualan](docs/screenshots/penjualan.png) | ![Laporan](docs/screenshots/laporan.png) |
-
-> Letakkan gambar kamu di folder `docs/screenshots/` dalam repo.
+| Tampilan awal |
+|:----------:|
+| ![Dashboard](gmr/awal.PNG) |
+| Transaksi Pembelian |
+| ![Penjualan](gmr/beli.PNG) | 
+| Transaksi Penjualan |
+| ![Penjualan](gmr/jual.PNG) |
+| Master Barang |
+| ![Penjualan](gmr/master-barang.PNG) |
+| Pengecekan Stok Barang |
+| ![Penjualan](gmr/master-barang.PNG) |
+| Contoh nota |
+| ![Penjualan](gmr/nota.PNG) |
 
 ---
 
