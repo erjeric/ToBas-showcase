@@ -81,11 +81,12 @@ Setiap kali transaksi penjualan terjadi, stok otomatis berkurang dari batch tert
 
 ---
 
-## 📦 Rencana Pengembangan
-- Integrasi database online (MySQL / Sheets)
-- Dashboard berbasis web
-- Sinkronisasi antar perangkat
-- Modul kasir touchscreen
+## 📦 Rencana Pengembangan(kabar baiknya kami sudah punya aplikasi yang terintegrasi,bisa untuk multicabang)
+
+- Integrasi database online (MySQL) sudah ✔️
+- Dashboard berbasis web sudah ✔️
+- Sinkronisasi antar perangkat✔️
+- Modul kasir touchscreen (tahap pengembangan)
 
 ---
 
